@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏦 I’m currently working at Revolut
+- 🏦 I’m currently working at JPMorgan
 - 🎓 I’m currently studying Computer Science at University of London
 
 ![Dzheky's github stats](https://github-readme-stats.vercel.app/api?username=dzheky&show_icons=true)
